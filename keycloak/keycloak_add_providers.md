@@ -56,7 +56,7 @@ services:
 
 volumes:
   postgres_data:
-
+```
 
 
 3. Добавление кастомных провайдеров
